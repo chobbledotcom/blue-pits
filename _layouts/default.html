@@ -1,0 +1,198 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+        <meta charset="utf-8" />
+        <title>{{ page.title }}</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <link href="https://fonts.googleapis.com/css?family=PT+Sans:400,700,400italic" rel="stylesheet" />
+        <link href="https://fonts.googleapis.com/css?family=Oswald:400,700" rel="stylesheet" />
+        <link href="/style/bootstrap.css" rel="stylesheet" />
+        <link href="/style/style.css" rel="stylesheet" />
+        <link href="/style/blue.css" rel="stylesheet" />
+        <link href="/style/bluepits.css" rel="stylesheet" />
+    </head>
+    <body>
+        <div id="fb-root"></div>
+        <script>(function (d, s, id) {
+        var js, fjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) return;
+        js = d.createElement(s); js.id = id;
+        js.src = "//connect.facebook.net/en_GB/all.js#xfbml=1&appId=152848771487469";
+        fjs.parentNode.insertBefore(js, fjs);
+        }(document, 'script', 'facebook-jssdk'));</script>
+        <header>
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-7">
+                        <div class="row">
+                            <div class="col-xs-8 col-xs-offset-2 col-sm-12 col-sm-offset-0">
+                                <a href="/" id="logo">
+                                    <img src="/img/blue-pits-housing-action.png" alt="" class="img-block" />
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-sm-5" id="HeaderRight">
+                        <div class="list">
+                            <div class="row">
+                                <div class="col-xs-6 col-sm-12">
+                                    <div class="phone">
+                                        <i class="icon-phone"></i>
+                                        <strong>Phone:</strong> 01706 345886
+                                    </div>
+                                </div>
+                                <div class="col-xs-6 col-sm-12">
+                                    <hr class="hidden-xs" />
+                                    <div class="email">
+                                        <i class="icon-envelope-alt"></i>
+                                        <strong>Email:</strong> <a href="mailto:bluepitshousingaction@gmail.com">bluepitshousingaction@gmail.com</a>
+                                    </div>
+                                </div>
+                            </div>
+                            <hr />
+                            <div class="address">
+                                <i class="icon-home"></i>
+                                <strong>Address:</strong> 169 Drake Street, Rochdale, OL11 1EF
+                            </div>
+                        </div>
+                        <div class="row" id="header-logos">
+                            <div class="col-md-6 col-sm-6 col-xs-6">
+                                <img src="/img/investors-in-people.png" alt="" />
+                            </div>
+                            <div class="col-md-6 col-sm-6 col-xs-6">
+                                <img src="/img/health-and-wellbeing.png" alt="" />
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </header>
+        <div class="navbar bs-docs-nav" role="banner">
+            <div class="container">
+                <div class="navbar-header">
+                    <button class="navbar-toggle" type="button" data-toggle="collapse" data-target=".bs-navbar-collapse">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    </button>
+                </div>
+                <nav class="collapse navbar-collapse bs-navbar-collapse" role="navigation" id="NavBar">
+                    <ul class="nav navbar-nav">
+                        {% assign sorted_pages = site.pages| sort: 'top_links_order' %}
+                        {% for link in sorted_pages %}
+                            {% if link.top_links_name %}
+                                <li
+                                    {% if page.url == link.url %}
+                                        class="active"
+                                    {% endif %}
+                                    >
+                                    <a title="{{ link.title }}"
+                                        href="{{ link.url }}">
+                                        {{ link.top_links_name }}
+                                    </a>
+                                </li>
+                            {% endif %}
+                        {% endfor %}
+                    </ul>
+                </nav>
+            </div>
+        </div>
+        <div class="container" id="main-container">
+            <div class="row">
+                <div class="col-md-8 content">
+                    {{ content }}
+                </div>
+                <div class="col-md-4">
+                    <div class="sidebar content">
+                        {% if page.title == "Activity Groups" %}
+                            <div class="widget">
+                                <h4>Jump to Activity</h4>
+                                <ul>
+                                    <li><a href="#arts-and-crafts">Arts and Crafts</a></li>
+                                    <li><a href="#bowling">Bowling</a></li>
+                                    <li><a href="#computers">Computers</a></li>
+                                    <li><a href="#cooking">Cooking</a></li>
+                                    <li><a href="#exercise">Exercise</a></li>
+                                    <li><a href="#gardening">Gardening</a></li>
+                                    <li><a href="#karaoke">Karaoke</a></li>
+                                    <li><a href="#key-skills">Key Skills</a></li>
+                                    <li><a href="#music-groups">Music Groups</a></li>
+                                </ul>
+                            </div>
+                        {% elsif page.title == "Board of Directors" %}
+                            <div class="widget">
+                                <h4>Jump to Director</h4>
+                                <ul>
+                                    <li><a href="#lynn-collins">Lynn Collins</a></li>
+                                    <li><a href="#philip-traynor">Philip Traynor</a></li>
+                                    <li><a href="#kathleen-ince">Kathleen Ince</a></li>
+                                    <li><a href="#pete-ruddy">Pete Ruddy</a></li>
+                                    <li><a href="#sarah-jayne-randall">Sarah-Jayne Randall</a></li>
+                                </ul>
+                            </div>
+                        {% elsif page.title == "Management Team" %}
+                            <div class="widget">
+                                <h4>Jump to Team Member</h4>
+                                <ul>
+                                    <li><a href="#lynn-collins">Lynn Collins</a></li>
+                                    <li><a href="#vicky-chanter">Vicky Chanter</a></li>
+                                    <li><a href="#virginia-ncube">Virginia Ncube</a></li>
+                                </ul>
+                            </div>
+                        {% endif %}
+                        <div class="widget hidden-xs hidden-sm">
+                            <script type="text/javascript" src="//www.cqc.org.uk/sites/all/modules/custom/cqc_widget/widget.js?data-id=1-2693034270&data-host=www.cqc.org.uk&type=location"></script>
+                        </div>
+                        <div class="widget hidden-xs hidden-sm">
+                            <div class="fb-like-box" data-href="https://www.facebook.com/pages/Blue-Pits-Housing-Action/247543441938459" data-height="300" data-colorscheme="light" data-show-faces="true" data-header="true" data-stream="false" data-show-border="false"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+        <footer>
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-4">
+                        <div class="widget">
+                            <h3>Blue Pits Housing Action</h3>
+                            <p>An inclusive, client needs-led, high quality <strong>accommodation and support service</strong> that promotes social inclusion and enables vulnerable adults to achieve their full potential.</p>
+                        </div>
+                    </div>
+                    <div class="col-md-4 col-md-offset-4">
+                        <div class="widget">
+                            <h4>Associated Busineses</h4>
+                            <ul>
+                                <li><a href="https://www.newbarnltd.co.uk" target="_blank">Newbarn Ltd</a></li>
+                                <li><a href="https://www.freeholdcottage.com" target="_blank">Freehold Cottage</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <hr />
+                <div class="row">
+                    <div class="col-md-12">
+                        <p class="pull-left">
+                            Copyright &copy; Blue Pits Housing Action - Charity #1154280
+                        </p>
+                        <p class="pull-right">
+                            <a href="http://opencorporates.com/companies/gb/07825886" target="_blank" title="Blue Pits Housing Action on OpenCorporates.org">OpenCorporates.org</a>
+                        </p>
+                        <div class="clearfix"></div>
+                    </div>
+                </div>
+            </div>
+        </footer>
+        <script src="/js/jquery.js"></script>
+        <script src="/js/bootstrap.js"></script>
+        <script src="/js/jquery.isotope.js"></script>
+        <script src="/js/jquery.prettyPhoto.js"></script>
+        <script src="/js/filter.js"></script>
+        <script src="/js/jquery.cslider.js"></script>
+        <script src="/js/modernizr.custom.28468.js"></script>
+        <script src="/js/custom.js"></script>
+    </body>
+</html>

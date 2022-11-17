@@ -1,0 +1,24 @@
+image: alpine/edge
+packages:
+  - ruby-full
+  - ruby-dev
+  - nodejs
+sources:
+  - https://git.sr.ht/~stfn/blue-pits
+secrets:
+  - 2dabcbdf-2e71-4815-bae1-cbffbcc9f409
+tasks:
+  - setup: |
+      sudo gem install --no-document bundler
+      sudo gem install --no-document neocities
+  - build: |
+      cd blue-pits
+      bundle config jobs 4
+      bundle install
+      JEKYLL_ENV=production bundle exec jekyll build
+  - deploy: |
+      cd blue-pits
+      set +x
+      export NEOCITIES_API_KEY=$(cat ~/.neocities_api_key)
+      set -x
+      neocities push --prune _site
