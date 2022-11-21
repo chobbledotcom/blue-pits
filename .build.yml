@@ -1,23 +1,31 @@
 image: alpine/edge
 packages:
-  - ruby-full
   - ruby-dev
   - nodejs
+environment:
+  repo: blue-pits
 sources:
   - https://git.sr.ht/~stfn/blue-pits
+  - https://github.com/jekyll/jekyll
 secrets:
   - 2dabcbdf-2e71-4815-bae1-cbffbcc9f409
 tasks:
   - setup: |
       sudo gem install --no-document bundler
       sudo gem install --no-document neocities
+      cd jekyll
+      cat jekyll.gemspec | grep -E "\"(jekyll-watch|em-websocket)\"" -v > jekyll-no-watch.gemspec
+      mv jekyll-no-watch.gemspec jekyll.gemspec
+      cat lib/jekyll/commands/build.rb | grep -F "\"jekyll-watch\"" -v > lib/jekyll/commands/build-no-watch.rb
+      mv lib/jekyll/commands/build-no-watch.rb lib/jekyll/commands/build.rb
+      sed -i 's/gem \"jekyll\".*/gem \"jekyll\", path: "~\/jekyll"/' ~/$repo/Gemfile
   - build: |
-      cd blue-pits
+      cd $repo
       bundle config jobs 4
       bundle install
       JEKYLL_ENV=production bundle exec jekyll build
   - deploy: |
-      cd blue-pits
+      cd $repo
       set +x
       export NEOCITIES_API_KEY=$(cat ~/.neocities_api_key)
       set -x
