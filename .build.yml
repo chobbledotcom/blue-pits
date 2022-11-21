@@ -11,8 +11,7 @@ secrets:
   - 2dabcbdf-2e71-4815-bae1-cbffbcc9f409
 tasks:
   - setup: |
-      sudo gem install --no-document bundler
-      sudo gem install --no-document neocities
+      sudo gem install --no-document bundler neocities
       cd jekyll
       cat jekyll.gemspec | grep -E "\"(jekyll-watch|em-websocket)\"" -v > jekyll-no-watch.gemspec
       mv jekyll-no-watch.gemspec jekyll.gemspec
