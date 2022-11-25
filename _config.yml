@@ -6,6 +6,7 @@ collections:
   pages:
     output: true
     permalink: /:name/
+
 exclude:
   - .sass-cache/
   - .jekyll-cache/
