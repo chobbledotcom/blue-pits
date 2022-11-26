@@ -8,6 +8,7 @@ collections:
     permalink: /:name/
 
 exclude:
+  - build-local.sh
   - .sass-cache/
   - .jekyll-cache/
   - gemfiles/

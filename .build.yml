@@ -7,18 +7,13 @@ environment:
 sources:
   - https://git.sr.ht/~stfn/blue-pits
 secrets:
-  - 2dabcbdf-2e71-4815-bae1-cbffbcc9f409
+  - 3bb58dc0-1be8-4ac7-bc14-597027defe65 # neocities 
 tasks:
   - setup: |
       sudo gem install --no-document bundler neocities
   - build: |
       cd $repo
-      bundle config jobs 4
-      bundle install
-      JEKYLL_ENV=production bundle exec jekyll build
+      sh ./build-jekyll
   - deploy: |
       cd $repo
-      set +x
-      export NEOCITIES_API_KEY=$(cat ~/.neocities_api_key)
-      set -x
-      neocities push --prune _site
+      sh ./deploy-neocities $repo _site
