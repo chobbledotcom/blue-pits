@@ -1,6 +1,6 @@
 image: alpine/edge
 packages:
-  - ruby-dev
+  - ruby-full
   - nodejs
   - npm
 environment:
