@@ -2,18 +2,23 @@ image: alpine/edge
 packages:
   - ruby-dev
   - nodejs
+  - npm
 environment:
   repo: blue-pits
 sources:
   - https://git.sr.ht/~stfn/blue-pits
+  - https://git.sr.ht/~stfn/build-scripts
 secrets:
-  - 3bb58dc0-1be8-4ac7-bc14-597027defe65 # neocities 
+  - 3bb58dc0-1be8-4ac7-bc14-597027defe65 # neocities
 tasks:
   - setup: |
       sudo gem install --no-document bundler neocities
   - build: |
       cd $repo
-      sh ./jekyll-build
+      sh ../build-scripts/jekyll-build
+  - minify: |
+      cd $repo
+      sh ../build-scripts/minify-site
   - deploy: |
       cd $repo
-      sh ./neocities-deploy $repo _site
+      sh ../build-scripts/neocities-deploy $repo _site
