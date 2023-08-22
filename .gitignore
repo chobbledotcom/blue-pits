@@ -1,5 +1,6 @@
 _site
 .bundle
+.nix-gems
 .DS_Store
 .sass-cache
 .jekyll-cache
