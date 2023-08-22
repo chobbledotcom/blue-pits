@@ -10,9 +10,9 @@ collections:
     permalink: /:name/
 
 exclude:
-  - build-jekyll
-  - deploy-neocities
-  - LICENSE
+  - build.sh
+  - build.yml
+  - shell.nix
   - .sass-cache/
   - .jekyll-cache/
   - gemfiles/

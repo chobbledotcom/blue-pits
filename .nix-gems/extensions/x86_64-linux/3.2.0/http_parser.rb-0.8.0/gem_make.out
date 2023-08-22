@@ -1,0 +1,19 @@
+current directory: /home/user/git/blue-pits/.nix-gems/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
+/nix/store/zgcgq46222k32xab9skqkf904i173zpf-ruby-3.2.2/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /home/user/git/blue-pits/.nix-gems/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
+make DESTDIR\= sitearchdir\=./.gem.20230822-213953-cq26oz sitelibdir\=./.gem.20230822-213953-cq26oz clean
+
+current directory: /home/user/git/blue-pits/.nix-gems/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
+make DESTDIR\= sitearchdir\=./.gem.20230822-213953-cq26oz sitelibdir\=./.gem.20230822-213953-cq26oz
+compiling ruby_http_parser.c
+compiling ryah_http_parser.c
+linking shared-object ruby_http_parser.so
+
+current directory: /home/user/git/blue-pits/.nix-gems/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
+make DESTDIR\= sitearchdir\=./.gem.20230822-213953-cq26oz sitelibdir\=./.gem.20230822-213953-cq26oz install
+install -c -p -m 755 ruby_http_parser.so ./.gem.20230822-213953-cq26oz
+
+current directory: /home/user/git/blue-pits/.nix-gems/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
+make DESTDIR\= sitearchdir\=./.gem.20230822-213953-cq26oz sitelibdir\=./.gem.20230822-213953-cq26oz clean
