@@ -1,8 +1,8 @@
 image: nixos/latest
 packages:
   - nixos.bundler
-  - nixos.ruby_3_2
-  - nixos.nodejs_20
+  - nixos.ruby
+  - nixos.nodejs
   - nixos.nodePackages_latest.npm
   - nixos.nodePackages_latest.html-minifier
 environment:
