@@ -1,8 +1,4 @@
 image: nixos/latest
-packages:
-  - ruby-dev
-  - nodejs
-  - npm
 environment:
   repo: blue-pits
 sources:
