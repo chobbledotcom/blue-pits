@@ -1,4 +1,10 @@
 image: nixos/latest
+packages:
+  - bundler
+  - ruby_3_2
+  - nodejs_20
+  - nodePackages_latest.npm
+  - nodePackages_latest.html-minifier
 environment:
   repo: blue-pits
 sources:
@@ -7,5 +13,4 @@ secrets:
   - 3bb58dc0-1be8-4ac7-bc14-597027defe65 # neocities
 tasks:
   - build: |
-      nix-shell
       sh build.sh
