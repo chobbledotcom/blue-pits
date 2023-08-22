@@ -2,8 +2,8 @@ with (import <nixpkgs> {});
 mkShell {
   buildInputs = [
     bundler
-    ruby_3_2
-    nodejs_20
+    ruby
+    nodejs
     nodePackages_latest.npm
     nodePackages_latest.html-minifier
   ];

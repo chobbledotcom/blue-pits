@@ -1,6 +1,5 @@
 image: nixos/latest
 packages:
-  - nixos.bundler
   - nixos.ruby
   - nixos.nodejs
   - nixos.nodePackages_latest.npm
