@@ -1,5 +1,0 @@
-current directory: /home/user/git/blue-pits/.nix-gems/gems/neocities-0.0.18/ext
-/nix/store/zgcgq46222k32xab9skqkf904i173zpf-ruby-3.2.2/bin/ruby mkrf_conf.rb
-
-current directory: /home/user/git/blue-pits/.nix-gems/gems/neocities-0.0.18/ext
-/nix/store/zgcgq46222k32xab9skqkf904i173zpf-ruby-3.2.2/bin/ruby -rrubygems /home/user/git/blue-pits/.nix-gems/gems/rake-12.3.3/exe/rake RUBYARCHDIR\=/home/user/git/blue-pits/.nix-gems/extensions/x86_64-linux/3.2.0/neocities-0.0.18 RUBYLIBDIR\=/home/user/git/blue-pits/.nix-gems/extensions/x86_64-linux/3.2.0/neocities-0.0.18
