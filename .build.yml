@@ -13,4 +13,4 @@ secrets:
 tasks:
   - build: |
       cd $repo
-      sh build.sh
+      sh build.sh build
