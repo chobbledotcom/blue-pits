@@ -1,16 +1,22 @@
-image: nixos/latest
+image: alpine/edge
 packages:
-  - nixos.ruby
-  - nixos.nodejs
-  - nixos.nodePackages_latest.npm
-  - nixos.nodePackages_latest.html-minifier
+  - ruby-dev
+  - nodejs
+  - npm
 environment:
   repo: blue-pits
 sources:
   - https://git.sr.ht/~stfn/blue-pits
+  - https://git.sr.ht/~stfn/build-scripts
 secrets:
   - 3bb58dc0-1be8-4ac7-bc14-597027defe65 # neocities
 tasks:
   - build: |
+      nix-shell
+      sudo sh ../build-scripts/jekyll-build
+  - minify: |
       cd $repo
-      sh build.sh build
+      sudo sh ../build-scripts/minify-site
+  - deploy: |
+      cd $repo
+      sudo sh ../build-scripts/neocities-deploy $repo _site

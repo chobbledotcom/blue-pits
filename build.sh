@@ -8,7 +8,7 @@ bundle exec jekyll build
 html-minifier --input-dir _site --output-dir _site --file-ext html --collapse-whitespace --minify-css --remove-comments --remove-attribute-quotes --remove-redundant-attributes
 
 set +x
-export NEOCITIES_API_KEY=$(cat /home/$0/.neocities/blue-pits)
+export NEOCITIES_API_KEY=$(cat /home/$1/.neocities/blue-pits)
 set -x
 
 gem install --no-document neocities
