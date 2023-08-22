@@ -12,7 +12,7 @@ secrets:
   - 3bb58dc0-1be8-4ac7-bc14-597027defe65 # neocities
 tasks:
   - build: |
-      nix-shell
+      cd $repo
       sudo sh ../build-scripts/jekyll-build
   - minify: |
       cd $repo
