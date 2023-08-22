@@ -12,4 +12,5 @@ secrets:
   - 3bb58dc0-1be8-4ac7-bc14-597027defe65 # neocities
 tasks:
   - build: |
+      cd $repo
       sh build.sh
