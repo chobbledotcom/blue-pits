@@ -11,8 +11,7 @@ collections:
     permalink: /:name/
 
 exclude:
-  - build.sh
-  - build.yml
+  - build
   - shell.nix
   - .sass-cache/
   - .jekyll-cache/
