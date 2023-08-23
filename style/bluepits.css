@@ -6,6 +6,10 @@ body
     background-attachment: fixed;
 }
 
+img {
+    max-width: 100%;
+}
+
 .navbar .nav > li > a
 {
     font-size: 14px !important;

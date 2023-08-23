@@ -1,5 +1,6 @@
 url: "https://bluepitshousingaction.co.uk"
 
+markdown: kramdown
 plugins:
   - jekyll-sitemap
   - jekyll-minifier
