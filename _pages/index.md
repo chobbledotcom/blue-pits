@@ -18,18 +18,18 @@ We have extensive experience of the complex needs of people with mental health c
 - Extensive experience of providing accommodation and support services for adults with learning disabilities, mental health problems, including Mentally Disordered Offenders with complex support needs and as stated above.
 - Extensive experience of promoting independence to service users who have failed to gain from, or been rejected by, other support agencies for not complying with the implicit or explicit expectations of those agencies.
 
-## Mission Statement
+## <span>Mission Statement</span>
 
 To support and enable people with complex mental health needs and learning disability to live successfully in the home and community of their choice; to ensure that tenants have choice and control about where and with whom they live, and to provide high quality, person centred support to promote independence.
 
-### Aims
+### <span>Aims</span>
 
 - To improve the overall health and wellbeing of Adults at Risk with complex mental health needs and learning disability, including those with a dual diagnosis.
 - To enable people to develop and maintain the skills and competencies they need to return to, or remain, living independently in their own home.
 - To minimise the need for prolonged secondary health and social care provision.
 - To promote integration and reintegration among socially excluded groups and those leaving institutions of confinement.
 
-## Philosophy
+## <span>Philosophy</span>
 
 Blue Pits Housing Action is committed to facilitating and promoting mental well-being, to allow our tenants to enjoy a fulfilled life in the community. We help people to fulfil their aspirations, whilst providing the support they need to achieve this.
 
