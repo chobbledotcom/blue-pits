@@ -45,7 +45,7 @@ h2 strong {
     min-height: calc(100vh - 300px);
 }
 
-#main-container img {
+.hero img {
     float: left;
     margin: 10px 10px 10px 0;
     width: 100px;
@@ -146,6 +146,11 @@ header {
     width: 100%;
     max-width: 100%;
     display: block;
+}
+
+.widget img {
+    display: block;
+    max-width: 100%;
 }
 
 .widget li a.active {
