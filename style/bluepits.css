@@ -4,7 +4,16 @@
     background-attachment: fixed;
 }
 
+<<<<<<< HEAD
 .navbar .nav>li>a {
+=======
+img {
+    max-width: 100%;
+}
+
+.navbar .nav > li > a
+{
+>>>>>>> 84655ff17732ab35f18f09082ce69e4e11ad06ba
     font-size: 14px !important;
 }
 
