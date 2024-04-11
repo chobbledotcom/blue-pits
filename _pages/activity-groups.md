@@ -5,6 +5,7 @@ top_links_name: Activities
 top_links_order: 2
 meta_description: Activity Groups
 header_text: Activity Groups
+toc: true
 ---
 
 We run an independently constituted activities group targeted at vulnerable adults in Rochdale, although everyone is welcome to attend. There are a range of different activities to meet different levels of skill and ability and plenty of paid and volunteer support staff in attendance to provide assistance.
