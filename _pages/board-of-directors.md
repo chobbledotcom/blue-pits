@@ -14,19 +14,11 @@ Hi, I'm Lynn, the CEO of Blue Pits Housing Action. I'd like to introduce our Boa
 
 Our Trustees provide strategic leadership and have overall control of Blue Pits Housing Action. Our Trustees are responsible for making sure the charity is doing what it was set up to do. In our case;
 
-1) To carry on for the benefit of the community the business of providing social housing and any associated amenities, services, advice or assistance for persons: o in necessitous circumstances upon terms appropriate to their means; o for whom it would be charitable to provide housing
+1. To carry on for the benefit of the community the business of providing social housing and any associated amenities, services, advice or assistance for persons: o in necessitous circumstances upon terms appropriate to their means; o for whom it would be charitable to provide housing
 
-2) To promote or carry out any other charitable purpose that can be carried out by a company registered as a social landlord with the tenant services authority or such similar authority from time to time.
+2. To promote or carry out any other charitable purpose that can be carried out by a company registered as a social landlord with the tenant services authority or such similar authority from time to time.
 
 **Meet our Trustees:**
-
-## **Philip Traynor - Chair**
-
-Phil, with over 25 years of experience in education and teaching, currently serves as a supply teacher in the Primary Sector (KS1 and KS2). His extensive career includes roles as a member of the senior management team, subject leader, transition manager from KS2 to KS3, and mentor for NQTs.
-
-Phil authored a research paper on Comparative Education in British and German Schools for the British Council and worked on secondment for Oldham Education Authority as a Specialist Primary Teacher in a special KS3/4 High School, catering to pupils excluded from mainstream education due to emotional or behavioural difficulties.
-
-In addition to his teaching career, Phil is a qualified sports coach for Badminton England, coaching both juniors and adults in schools and leisure facilities.
 
 ## **Kathleen Ince**
 
@@ -40,7 +32,7 @@ Kathleen has furthered her expertise by completing a post-graduate forensic ment
 
 Pete is a retired Management Accountant. He has twenty three years’ experience working in the finance department of the NHS as a management accountant, working originally in North Manchester before moving to Pennine Acute services.
 
-## **Sarah-Jayne Anderson**
+## **Sarah-Jayne Anderson - Acting Chair**
 
 Sarah's career began as a Police Constable with West Yorkshire Police. More recently, she transitioned to the Youth Offending Service, utilizing her skills to work with individuals with complex needs and diverse backgrounds, a role she has fulfilled for over 20 years.
 
