@@ -20,6 +20,22 @@ Our Trustees provide strategic leadership and have overall control of Blue Pits 
 
 **Meet our Trustees:**
 
+## **Sarah-Jayne Anderson - Acting Chair**
+
+Sarah's career began as a Police Constable with West Yorkshire Police. More recently, she transitioned to the Youth Offending Service, utilizing her skills to work with individuals with complex needs and diverse backgrounds, a role she has fulfilled for over 20 years.
+
+In addition to her law enforcement experience, Sarah has expanded her professional scope by working with an ALMO for a Local Authority Housing Association. This position allowed her to deepen her understanding of housing-related matters and the broader community.
+
+Recognising the value of continued learning, Sarah has chosen to complement her hands-on experience with further studies, earning a qualification in housing and letting. Her combined experience and education position her as a well-rounded professional with expertise in both criminal justice and housing sectors.
+
+## **Philip Traynor**
+
+Phil, with over 25 years of experience in education and teaching, currently serves as a supply teacher in the Primary Sector (KS1 and KS2). His extensive career includes roles as a member of the senior management team, subject leader, transition manager from KS2 to KS3, and mentor for NQTs.
+
+Phil authored a research paper on Comparative Education in British and German Schools for the British Council and worked on secondment for Oldham Education Authority as a Specialist Primary Teacher in a special KS3/4 High School, catering to pupils excluded from mainstream education due to emotional or behavioural difficulties.
+
+In addition to his teaching career, Phil is a qualified sports coach for Badminton England, coaching both juniors and adults in schools and leisure facilities.
+
 ## **Kathleen Ince**
 
 Kathleen is a Youth Offending Team (YOT) Nurse, currently working with offenders to address their healthcare needs.
@@ -31,14 +47,6 @@ Kathleen has furthered her expertise by completing a post-graduate forensic ment
 ## **Pete Ruddy**
 
 Pete is a retired Management Accountant. He has twenty three years’ experience working in the finance department of the NHS as a management accountant, working originally in North Manchester before moving to Pennine Acute services.
-
-## **Sarah-Jayne Anderson - Acting Chair**
-
-Sarah's career began as a Police Constable with West Yorkshire Police. More recently, she transitioned to the Youth Offending Service, utilizing her skills to work with individuals with complex needs and diverse backgrounds, a role she has fulfilled for over 20 years.
-
-In addition to her law enforcement experience, Sarah has expanded her professional scope by working with an ALMO for a Local Authority Housing Association. This position allowed her to deepen her understanding of housing-related matters and the broader community.
-
-Recognising the value of continued learning, Sarah has chosen to complement her hands-on experience with further studies, earning a qualification in housing and letting. Her combined experience and education position her as a well-rounded professional with expertise in both criminal justice and housing sectors.
 
 ## **Christine Ince**
 
