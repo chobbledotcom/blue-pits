@@ -28,14 +28,6 @@ In addition to her law enforcement experience, Sarah has expanded her profession
 
 Recognising the value of continued learning, Sarah has chosen to complement her hands-on experience with further studies, earning a qualification in housing and letting. Her combined experience and education position her as a well-rounded professional with expertise in both criminal justice and housing sectors.
 
-## **Philip Traynor**
-
-Phil, with over 25 years of experience in education and teaching, currently serves as a supply teacher in the Primary Sector (KS1 and KS2). His extensive career includes roles as a member of the senior management team, subject leader, transition manager from KS2 to KS3, and mentor for NQTs.
-
-Phil authored a research paper on Comparative Education in British and German Schools for the British Council and worked on secondment for Oldham Education Authority as a Specialist Primary Teacher in a special KS3/4 High School, catering to pupils excluded from mainstream education due to emotional or behavioural difficulties.
-
-In addition to his teaching career, Phil is a qualified sports coach for Badminton England, coaching both juniors and adults in schools and leisure facilities.
-
 ## **Kathleen Ince**
 
 Kathleen is a Youth Offending Team (YOT) Nurse, currently working with offenders to address their healthcare needs.
