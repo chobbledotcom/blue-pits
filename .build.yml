@@ -1,7 +1,6 @@
 image: nixos/unstable
 packages:
   - nixos.clang
-  - nixos.gcc
   - nixos.ruby
   - nixos.html-minifier
   - nixos.neocities-cli
