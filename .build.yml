@@ -1,12 +1,4 @@
 image: nixos/unstable
-packages:
-  - nixos.clang
-  - nixos.html-minifier
-  - nixos.neocities-cli
-  - nixos.pkg-config
-  - nixos.ruby
-  - nixos.rubyPackages.bigdecimal
-  - nixos.sass
 environment:
   repo: blue-pits
 sources:
