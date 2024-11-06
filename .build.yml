@@ -1,6 +1,8 @@
-image: nixos/latest
+image: nixos/unstable
 packages:
-  - nixos.ruby_3_3
+  - nixos.clang
+  - nixos.gcc
+  - nixos.ruby
   - nixos.html-minifier
   - nixos.neocities-cli
   - nixos.sass
