@@ -16,6 +16,7 @@ exclude:
   - .sass-cache/
   - .jekyll-cache/
   - gemfiles/
+  - bin/
   - Gemfile
   - Gemfile.lock
   - node_modules/
