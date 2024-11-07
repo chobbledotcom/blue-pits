@@ -4,7 +4,8 @@ rm -rf _site
 
 nix-shell -p bundler --pure --command "
   echo 'Installing bundles'
-  bundle install --gemfile=Gemfile --path vendor/cache
+  bundle config set path 'vendor/cache'
+  bundle install --gemfile=Gemfile
 
   echo 'Building site'
   bundle exec jekyll serve
