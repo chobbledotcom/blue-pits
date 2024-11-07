@@ -2,7 +2,7 @@
 
 rm -rf _site
 
-nix-shell -p bundler --pure --command "
+nix-shell -p ruby_3_3 --pure --command "
   export JEKYLL_ENV=production
   echo 'Installing bundles'
   bundle config set path 'vendor/cache'
