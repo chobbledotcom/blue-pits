@@ -1,4 +1,4 @@
-image: nixos/unstable
+image: nixos/latest
 environment:
   repo: blue-pits
 sources:
