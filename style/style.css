@@ -744,7 +744,6 @@ header .list hr {
 .hero {
     margin-bottom: 20px;
     padding-bottom: 0px;
-    border-bottom: 1px solid #eee;
 }
 
 .hero h3,
@@ -2373,4 +2372,12 @@ footer .widget {
         margin-bottom: 8px;
         width: 100%;
     }
+}
+
+.footer-links {
+  padding: 1em 0;
+}
+
+.footer-links span {
+  opacity: 0.5;
 }

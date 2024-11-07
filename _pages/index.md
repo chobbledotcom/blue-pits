@@ -4,7 +4,7 @@ permalink: /
 title: Blue Pits Housing Support Rochdale
 top_links_name: Home
 top_links_order: 0
-meta_description: Newbarn Ltd Supported Housing
+meta_description: Blue Pits Housing Support
 header_text: Blue Pits Housing Action
 ---
 

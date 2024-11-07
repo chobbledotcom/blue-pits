@@ -1,0 +1,11 @@
+#!/usr/bin/env bash
+
+rm -rf _site
+
+nix-shell -p bundler --pure --command "
+  echo 'Installing bundles'
+  bundle install --gemfile=Gemfile --path vendor/cache
+
+  echo 'Building site'
+  bundle exec jekyll serve
+"

@@ -8,4 +8,4 @@ secrets:
 tasks:
   - build: |
       cd $repo
-      sh build.sh
+      sh bin/build
