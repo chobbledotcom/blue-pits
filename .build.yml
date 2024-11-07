@@ -1,11 +1,9 @@
 image: nixos/latest
-environment:
-  repo: blue-pits
 sources:
   - https://git.sr.ht/~stfn/blue-pits
 secrets:
   - 3bb58dc0-1be8-4ac7-bc14-597027defe65 # neocities
 tasks:
   - build: |
-      cd $repo
+      cd blue-pits
       sh bin/build
