@@ -11,13 +11,13 @@ collections:
     permalink: /:name/
 
 exclude:
-  - build
-  - shell.nix
-  - .sass-cache/
   - .jekyll-cache/
-  - gemfiles/
-  - bin/
+  - .sass-cache/
   - Gemfile
   - Gemfile.lock
+  - bin/
+  - build
+  - gemfiles/
   - node_modules/
+  - shell.nix
   - vendor
