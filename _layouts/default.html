@@ -79,9 +79,9 @@
       <div class="container">
         <nav role="navigation" id="NavBar">
           <ul class="nav navbar-nav">
-            {% assign sorted_pages = site.pages| sort: 'top_links_order' %} {%
+            {% assign sorted_pages = site.pages | sort: 'top_links_order' %} {%
             for link in sorted_pages %} {% if link.top_links_name %}
-            <li {% if page.url="" ="link.url" %} class="active" {% endif %}>
+            <li {% if page.url==link.url %} class="active" {% endif %}>
               <a title="{{ link.title }}" href="{{ link.url }}"
                 >{{ link.top_links_name }}</a
               >
