@@ -1,10 +1,11 @@
-_site
-.direnv
-.nix-gems
 .DS_Store
-.sass-cache
+.aider*
+.direnv
+.env
 .jekyll-cache
 .jekyll-metadata
+.nix-gems
+.sass-cache
+_site
+result
 vendor
-.env
-.aider*
