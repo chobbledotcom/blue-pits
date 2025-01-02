@@ -52,6 +52,8 @@ Vicky Chanter is an HCPC Registered Social Worker who, prior to her recent exper
 
 ## **Nathan May**
 
+*Project Lead*
+
 Hi there I'm Nathan, Project Lead for Blue Pits Housing Action and a Registered Social Worker.
 
 As a social worker, I am deeply committed to empowering individuals, families, and communities to overcome challenges and achieve their fullest potential. With 3 years of experience in working with complex adults in Rochdale, I bring a compassionate and solution-oriented approach to my work.
