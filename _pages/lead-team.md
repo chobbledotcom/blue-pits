@@ -47,3 +47,17 @@ Vicky Chanter is an HCPC Registered Social Worker who, prior to her recent exper
 *   **July 2017:** ASYE Completion
 *   **July 2020:** Level 5 Diploma in Leadership & Management
 *   **March 2022:** Social Work Practice Educator Award Level 1 (Lancashire CC)
+
+---
+
+## **Nathan May**
+
+Hi there I'm Nathan, Project Lead for Blue Pits Housing Action and a Registered Social Worker.
+
+As a social worker, I am deeply committed to empowering individuals, families, and communities to overcome challenges and achieve their fullest potential. With 3 years of experience in working with complex adults in Rochdale, I bring a compassionate and solution-oriented approach to my work.
+
+I hold a degree in Social Work from UCLAN University, and my practice is guided by the core values of social justice, equality, and respect for the inherent worth of every individual. At Blue Pits Housing Action, I focus on directly supporting my Registered Manager in delivering high quality service and quality assurance, and I take pride in making a meaningful difference in the lives of those we support.
+
+Outside of work, I enjoy taking part in sports, which help me stay inspired and energised.
+
+I am passionate about supporting others and fostering resilience, and I look forward to contributing to our shared vision of building stronger communities.
