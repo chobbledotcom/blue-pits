@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: complaints
 title: Social Housing Complaints
 meta_description: Social Housing Complaints
 header_text: Social Housing Complaints
@@ -24,3 +24,13 @@ To achieve this, we will:
 
 - **[Download our housing complaints policy and procedure (PDF)](/docs/housing-complaints-policy-and-procedure.pdf)**
 - **[Download our housing complaints form (PDF)](/docs/housing-complaints-form.pdf)**
+
+### Complaints Web Form
+
+Alternatively, you can send a complaint through the form below:
+
+Blue Pits Housing Association is committed to understanding your complaint and putting things right when we have got things wrong.
+
+If you are not happy with the quality of your housing service, including the timing and standard of repairs carried out in your home, or the contractors who have worked in your home, then please use this form to tell us what went wrong.
+
+This will help us deal with your complaint quickly and we will do our best to put things right as soon as possible.

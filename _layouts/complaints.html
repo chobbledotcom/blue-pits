@@ -1,0 +1,81 @@
+---
+layout: default
+---
+
+<div class="hero">
+  <h1><span>{{ page.header_text }}</span></h1>
+</div>
+
+{{ content }}
+
+<hr />
+
+<script src="https://unpkg.com/@botpoison/browser" async=""></script>
+<form
+  class="complaints-form"
+  action="https://submit-form.com/7R8HklDpp"
+  method="POST"
+  data-botpoison-public-key="pk_bbb182a9-1ff3-4d9a-839c-06e45f41a6e6"
+>
+  <input
+    type="hidden"
+    name="_redirect"
+    value="https://bluepitshousingaction.co.uk/thank-you/"
+  />
+  <input type="hidden" name="_email.from" value="Blue Pits complaint form" />
+  <div class="complaint-fields">
+    <label>
+      Your name
+      <input type="text" name="name" id="name" required />
+    </label>
+    <label>
+      Your address
+      <input type="text" name="address" id="address" required />
+    </label>
+    <label>
+      Your phone number
+      <input type="text" name="phone" id="phone" />
+    </label>
+    <label>
+      Your email address
+      <input type="email" name="email" id="email" />
+    </label>
+    <label>
+      Your complaint is about:
+      <textarea
+        type="text"
+        rows="6"
+        name="complaint"
+        id="complaint"
+        required
+      ></textarea>
+    </label>
+  </div>
+  <p>
+    When we receive your complaint, we will let you know in writing within
+    <strong>5 working days</strong> and aim to agree on a solution.
+  </p>
+  <p>
+    If we need more information, we will get in touch with you. Please let us
+    know how you prefer to be contacted:
+  </p>
+  <div class="complaint-contact-methods">
+    <label>
+      <input type="checkbox" name="contact_in_person" id="contact_in_person" />
+      In person
+    </label>
+    <label>
+      <input type="checkbox" name="contact_by_email" id="contact_by_email" />
+      By email
+    </label>
+    <label>
+      <input type="checkbox" name="contact_by_phone" id="contact_by_phone" />
+      By telephone
+    </label>
+    <label>
+      <input type="checkbox" name="contact_by_letter" id="contact_by_letter" />
+      By letter
+    </label>
+  </div>
+  <button type="submit">Send Complaint</button>
+</form>
