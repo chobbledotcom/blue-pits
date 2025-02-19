@@ -81,7 +81,7 @@
           <ul class="nav navbar-nav">
             {% assign sorted_pages = site.pages | sort: 'top_links_order' %} {%
             for link in sorted_pages %} {% if link.top_links_name %}
-            <li {% if page.url="" ="link.url" %} class="active" {% endif %}>
+            <li {% if page.url==link.url %} class="active" {% endif %}>
               <a title="{{ link.title }}" href="{{ link.url }}"
                 >{{ link.top_links_name }}</a
               >
@@ -181,7 +181,7 @@
               </ul>
             </div>
             <div class="footer-links">
-              <a href="/privacy">Privacy Policy</a><br />
+              <a href="/privacy">Privacy Policy</a><br>
               <a href="/complaints/">Social Housing Complaints</a>
             </div>
           </div>
