@@ -1,6 +1,5 @@
 ---
 layout: page
-permalink: /complaints
 title: Social Housing Complaints
 meta_description: Social Housing Complaints
 header_text: Social Housing Complaints

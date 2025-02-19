@@ -1,6 +1,5 @@
 ---
 layout: page
-permalink: /privacy
 title: Our Privacy Policy
 meta_description: Our Privacy Policy
 header_text: Our Privacy Policy
