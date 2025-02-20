@@ -22,12 +22,13 @@ To achieve this, we will:
 
 ### Downloads
 
+- **[Download "How to complain if there's a problem" guide (PDF)](/docs/how-to-complain-if-theres-a-problem.pdf)**
 - **[Download our housing complaints policy and procedure (PDF)](/docs/housing-complaints-policy-and-procedure.pdf)**
 - **[Download our housing complaints form (PDF)](/docs/housing-complaints-form.pdf)**
 
 ### Complaints Web Form
 
-Alternatively, you can send a complaint through the form below:
+**You can send a complaint through the form below.**
 
 Blue Pits Housing Association is committed to understanding your complaint and putting things right when we have got things wrong.
 
