@@ -3,6 +3,8 @@ layout: complaints
 title: Social Housing Complaints
 meta_description: Social Housing Complaints
 header_text: Social Housing Complaints
+top_links_name: Complaints
+top_links_order: 6
 ---
 
 Complaints about social housing services are managed following the [Housing Ombudsman's Complaints Handling Code](https://www.housing-ombudsman.org.uk/landlords-info/complaint-handling-code/)
