@@ -7,6 +7,8 @@ meta_description: About Blue Pits Housing Action
 header_text: About Us
 ---
 
+**[Download: Feedback following a Quality Assurance visit from Rochdale Adult Care QA Officer in November 2024 (PDF)](/docs/quality-assurance-feedback-november-2024.pdf)**
+
 Blue Pits Housing Action provides support to all adult groups, including those with mental health needs and those with a dual diagnosis of learning disability or substance misuse.
 
 We provide a highly-skilled, diverse and experienced workforce and involve users of the service and any appropriate family members or carers, consulting with them to agree on an individual, needs-led holistic support plans and risk assessments.
