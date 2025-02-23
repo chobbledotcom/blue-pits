@@ -20,7 +20,7 @@ Our Trustees provide strategic leadership and have overall control of Blue Pits 
 
 **Meet our Trustees:**
 
-## **Sarah-Jayne Anderson - Acting Chair**
+## **Sarah-Jayne Anderson - Chair**
 
 Sarah's career began as a Police Constable with West Yorkshire Police. More recently, she transitioned to the Youth Offending Service, utilizing her skills to work with individuals with complex needs and diverse backgrounds, a role she has fulfilled for over 20 years.
 
