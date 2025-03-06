@@ -24,9 +24,16 @@ To achieve this, we will:
 
 ### Downloads
 
-- **[Download "How to complain if there's a problem" guide (PDF)](/docs/how-to-complain-if-theres-a-problem.pdf)**
-- **[Download our housing complaints policy and procedure (PDF)](/docs/housing-complaints-policy-and-procedure.pdf)**
-- **[Download our housing complaints form (PDF)](/docs/housing-complaints-form.pdf)**
+If you'd like to make a complaint:
+
+- [**How To Complain If There's A Problem** (PDF)](/docs/how-to-complain-if-theres-a-problem.pdf)
+- [**Housing Complaints Policy & Procedure** (PDF)](/docs/housing-complaints-policy-and-procedure.pdf)
+- [**Housing Complaints Form** (PDF)](/docs/housing-complaints-form.pdf)
+
+For regulatory documents about complaints:
+
+- [**Annual Complaints Performance & Service Improvement Report: Jan 25** (pdf)](/docs/annual-complaints-performance-and-service-improvement-report-jan-25.pdf)
+- [**Governing Body Response to Complaints: Q1 2025** (pdf)](/docs/governing-body-response-to-complaints-q1-2025.pdf)
 
 ### Complaints Web Form
 
