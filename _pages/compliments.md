@@ -43,14 +43,18 @@ Recent feedback from our service users and partner organisations.
 #### Rochdale Council Quality Assurance Officer
 
 > Good afternoon Vicky.
-> 
+>
 > Thank you for letting me join your team meeting yesterday. It was such a pleasure to be part of your meeting and listening to your good news stories as well as other crucial discussions such as, risk assessing and CQC visits.
-> 
+>
 > I loved the good news story about the person who you support who was in hospital for 8 years and no other service would take this package of support on only you guys. To think that this individual is now looking at rebuilding his career is truly incredible and shows the hard work your support workers have achieved. It must have been really difficult for him as well as your support workers at first due to him being institutionalised so well done. You all should be really proud of yourselves.
-> 
+>
 > I loved how you empower your support team to contribute to the team meeting. I could see how hard Collins had worked on the case of managing risks of supporting people with Parkinson's.
-> 
+>
 > Please keep inviting me to other things because I love your service.
-> 
+>
 > Kind Regards
+
+#### Parent of Service User
+
+> The support staff keep me well informed, Blue Pits is an excellent service, Amanda communicates exceptionally well and advices me of any concerns, She is very competent. Marcia and Steph are very positive, friendly and upbeat with my Daughter.
 
