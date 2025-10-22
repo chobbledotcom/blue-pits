@@ -1,9 +1,9 @@
 ---
 layout: page
-title: About Us
+title: About Blue Pits Housing Action | Mental Health & LD Support Rochdale
 top_links_name: About Us
 top_links_order: 1
-meta_description: About Blue Pits Housing Action
+meta_description: Learn about Blue Pits Housing Action, a CQC registered provider of supported housing and personal care for adults with mental health conditions and learning disabilities in Rochdale.
 header_text: About Us
 ---
 
