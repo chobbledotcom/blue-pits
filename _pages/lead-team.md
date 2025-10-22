@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Lead Team
+title: Leadership Team & Management | Blue Pits Housing Action
 top_links_name: Lead Team
 top_links_order: 5
-meta_description: Lead Team at Blue Pits Housing Action
+meta_description: Meet our experienced leadership team including our CEO, Registered Manager, and Project Lead - qualified professionals dedicated to supporting adults with complex needs.
 header_text: Lead Team
 toc: true
 ---

@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Our Privacy Policy
-meta_description: Our Privacy Policy
+title: Privacy Policy | Blue Pits Housing Action
+meta_description: Privacy policy for Blue Pits Housing Action. Learn how we protect your personal information and data when you contact us or use our services.
 header_text: Our Privacy Policy
 ---
 

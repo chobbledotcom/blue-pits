@@ -1,7 +1,7 @@
 ---
 layout: complaints
-title: Social Housing Complaints
-meta_description: Social Housing Complaints
+title: Social Housing Complaints | Blue Pits Housing Action
+meta_description: Make a complaint about social housing services at Blue Pits Housing Action. We follow the Housing Ombudsman's Complaints Handling Code and are committed to putting things right.
 header_text: Social Housing Complaints
 top_links_name: Complaints
 top_links_order: 6

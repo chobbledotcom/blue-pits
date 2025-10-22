@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Activity Groups
+title: Activity Groups for Vulnerable Adults | Blue Pits Rochdale
 top_links_name: Activities
 top_links_order: 2
-meta_description: Activity Groups
+meta_description: Free activity groups for vulnerable adults in Rochdale including arts & crafts, cooking, exercise, computers, and more. Supporting wellbeing and social integration.
 header_text: Activity Groups
 toc: true
 ---

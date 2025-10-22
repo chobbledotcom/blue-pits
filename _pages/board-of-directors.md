@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Board of Directors
+title: Board of Directors & Charitable Trustees | Blue Pits Housing Action
 top_links_name: Directors
 top_links_order: 3
-meta_description: Board of Directors at Blue Pits Housing Action
+meta_description: Meet the Board of Directors and Charitable Trustees who provide strategic leadership for Blue Pits Housing Action, a social housing charity in Rochdale.
 header_text: Board of Directors
 toc: true
 ---

@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Compliments
-meta_description: Compliments and positive feedback about Blue Pits Housing Action
+title: Testimonials & Compliments | Blue Pits Housing Action
+meta_description: Read testimonials and positive feedback from service users, families, and partner organisations about Blue Pits Housing Action's support services in Rochdale.
 header_text: Compliments
 top_links_name: Compliments
 top_links_order: 7

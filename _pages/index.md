@@ -1,10 +1,10 @@
 ---
 layout: page
 permalink: /
-title: Blue Pits Housing Support Rochdale
+title: Housing Support for Adults with Complex Needs | Blue Pits Rochdale
 top_links_name: Home
 top_links_order: 0
-meta_description: Blue Pits Housing Support
+meta_description: CQC registered housing support provider in Rochdale for adults with mental health needs, learning disabilities, and complex support requirements. Expert care since 2011.
 header_text: Blue Pits Housing Action
 ---
 
