@@ -32,7 +32,7 @@ If you'd like to make a complaint:
 
 For regulatory documents about complaints:
 
-- [**Annual Complaints Performance & Service Improvement Report: Jan 26** (pdf)](/docs/annual-complaints-performance-and-service-improvement-report-jan-26.pdf)
+- [**Annual Complaints Performance & Service Improvement Report: Oct 25** (pdf)](/docs/annual-complaints-performance-and-service-improvement-report-oct-25.pdf)
 - [**Governing Body Response to Complaints: Q1 2025** (pdf)](/docs/governing-body-response-to-complaints-q1-2025.pdf)
 - [**Trustees Statement on Complaints 2025** (PDF)](/docs/trustees-statement-on-complaints-2025.pdf)
 - [**Self Assessment Form 2025** (PDF)](/docs/self-assessment-form-2025.pdf)
