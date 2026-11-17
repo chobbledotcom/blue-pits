@@ -19,5 +19,6 @@ exclude:
   - build
   - gemfiles/
   - node_modules/
+  - scripts/
   - shell.nix
   - vendor

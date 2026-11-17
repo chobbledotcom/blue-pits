@@ -122,6 +122,39 @@
                 src="https://www.cqc.org.uk/sites/all/modules/custom/cqc_widget/widget.js?data-id=1-2693034270&data-host=www.cqc.org.uk&type=location"
               ></script>
             </div>
+            <div class="widget good-landlord">
+              <a
+                href="https://www.gmgoodlandlord.org.uk/landlords/supporter-resources"
+                rel="noopener"
+                title="Greater Manchester Good Landlord Charter supporter resources"
+              >
+                <img
+                  src="/img/good-landlord-charter.png"
+                  alt="Greater Manchester Good Landlord Charter supporter"
+                  style="aspect-ratio: 470/174"
+                />
+              </a>
+              <p>
+                Blue Pits Housing Action supports the Greater Manchester Good
+                Landlord Charter.
+              </p>
+            </div>
+            <div class="widget trustpilot">
+              <h4>Trustpilot reviews</h4>
+              {% if site.data.reviews %}
+              <p>
+                Rated <strong>{{ site.data.reviews.averageRating }} out of 5</strong>
+                from {{ site.data.reviews.total }} reviews.
+              </p>
+              {% endif %}
+              <p>
+                <a
+                  href="https://uk.trustpilot.com/review/bluepitshousingaction.co.uk"
+                  rel="noopener"
+                  >Read our reviews on Trustpilot</a
+                >
+              </p>
+            </div>
             <div class="widget">
               <iframe
                 title="The Blue Pits Facebook feed"
@@ -198,7 +231,17 @@
             </div>
             <div class="footer-links">
               <a href="/privacy">Privacy Policy</a><br>
-              <a href="/docs/quality-assurance.pdf">Quality Assurance (PDF)</a>
+              <a href="/docs/quality-assurance.pdf">Quality Assurance (PDF)</a><br>
+              <a
+                href="https://uk.trustpilot.com/review/bluepitshousingaction.co.uk"
+                rel="noopener"
+                >Trustpilot reviews</a
+              ><br>
+              <a
+                href="https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=GXr3G9esyU2YAfb-6saAyFC705wYwbtIjkn6b8Zm4dBUNk9CMjdQUkRQNDBQSE9QRzdZR1JSQ0JHSy4u&amp;origin=BluePitsWebsite"
+                rel="noopener"
+                >Website feedback survey</a
+              >
             </div>
           </div>
         </div>

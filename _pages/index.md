@@ -41,3 +41,7 @@ We uphold the privacy and right of every individual to be treated as such – wi
 - We **support** healthy lifestyles and mental wellbeing by promoting physical activity, healthy eating, addressing substance use such as smoking, alcohol and drugs.
 
 **We meet the essential standards of quality and safety set out in the Health and Social Care Act 2008 (Regulated Activities) Regulations 2010 and the Care Quality Commission (Registration) Regulations 2009, and can evidence that we meet the associated outcomes.**
+
+## <span>Your feedback</span>
+
+We would like to hear what you think about our website and the information it provides. [Take our quick feedback survey](https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=GXr3G9esyU2YAfb-6saAyFC705wYwbtIjkn6b8Zm4dBUNk9CMjdQUkRQNDBQSE9QRzdZR1JSQ0JHSy4u&origin=BluePitsWebsite), or read our [Trustpilot reviews](https://uk.trustpilot.com/review/bluepitshousingaction.co.uk).

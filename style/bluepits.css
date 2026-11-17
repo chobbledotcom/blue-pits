@@ -155,6 +155,20 @@ header {
   margin: 0 auto;
 }
 
+.good-landlord p {
+  margin-top: 8px;
+}
+
+.trustpilot-review {
+  border-top: 1px solid #dddddd;
+  margin-top: 20px;
+  padding-top: 15px;
+}
+
+.trustpilot-review blockquote {
+  font-size: 16px;
+}
+
 .widget li a.active {
   color: #333333;
   text-decoration: underline;

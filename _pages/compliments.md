@@ -9,7 +9,31 @@ top_links_order: 7
 
 Recent feedback from our service users and partner organisations.
 
-### Recent Compliments (April - July 2025)
+### Latest Compliments (2025 - 2026)
+
+#### Taiwo - Service User
+
+*December 2025*
+
+> Happy New Year, Vicky
+>
+> In my reflections as the year 2025 comes to an end, you came to mind as one of the few people who made constructive impact in my journey this far. I want to express my deep thought gratitude for all that you represented to me.
+>
+> Thank you for your kindness and support. Here's wishing you healthy, prosperous 2026 and beyond.
+
+#### Close Family Member of a Tenant
+
+*May 2026*
+
+> Thank you for your care and support after a tenant had died.
+
+#### UCLan Social Work Placement Team
+
+*August 2026*
+
+> I wanted to share my real appreciation about how Newbarn and Blue Pitts have worked to support practice learning with numerous students over the years. Many of the students we have placed with you are experiencing their own unique journeys towards becoming a social worker, some of which has included some difficult experiences on the course, such as failing previous placements. The person centred approach provided within the services at Newbarn and Blue Pitts, as well as the care given to supporting individual students, has been particularly valuable for these learners, and I wanted to acknowledge this and share my sincere thanks.
+
+### Earlier Compliments (April - July 2025)
 
 #### UCLAN - Student Placement Feedback
 
