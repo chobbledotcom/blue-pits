@@ -7,7 +7,7 @@ top_links_name: Compliments
 top_links_order: 7
 ---
 
-Recent feedback from our service users and partner organisations. You can also read our [Trustpilot reviews](/reviews/).
+Recent feedback from our service users and partner organisations.
 
 ### Latest Compliments (2025 - 2026)
 
@@ -82,3 +82,34 @@ Recent feedback from our service users and partner organisations. You can also r
 
 > The support staff keep me well informed, Blue Pits is an excellent service, Amanda communicates exceptionally well and advices me of any concerns, She is very competent. Marcia and Steph are very positive, friendly and upbeat with my Daughter.
 
+
+<a id="trustpilot-reviews"></a>
+
+### Trustpilot Reviews
+
+{% assign trustpilot = site.data.reviews %}
+{% if trustpilot and trustpilot.reviews.size > 0 %}
+
+We are rated **{{ trustpilot.averageRating }} out of 5** from **{{ trustpilot.total }} reviews** on Trustpilot.
+
+<a href="{{ trustpilot.profileUrl }}" rel="noopener">Read our Trustpilot profile</a>
+
+{% for review in trustpilot.reviews %}
+<div class="trustpilot-review">
+  <h3>{{ review.title | escape }}</h3>
+  <p>
+    <strong>{{ review.author | escape }}</strong> &middot;
+    {{ review.date | date: "%-d %B %Y" }} &middot; {{ review.rating }} out of 5
+  </p>
+  <blockquote>{{ review.text | escape | newline_to_br }}</blockquote>
+  {% if review.url %}
+  <p><a href="{{ review.url }}" rel="nofollow noopener">Read on Trustpilot</a></p>
+  {% endif %}
+</div>
+{% endfor %}
+
+{% else %}
+
+Our Trustpilot reviews are being updated. In the meantime, you can [read them on Trustpilot](https://uk.trustpilot.com/review/bluepitshousingaction.co.uk).
+
+{% endif %}
