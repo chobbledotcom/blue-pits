@@ -10,7 +10,7 @@ header_text: Reviews
 {% assign trustpilot = site.data.reviews %}
 {% if trustpilot and trustpilot.reviews.size > 0 %}
 
-We are rated **{{ trustpilot.averageRating }} out of 5** from **{{ trustpilot.total }} reviews** on Trustpilot.
+We are rated **{{ trustpilot.averageRating }} out of 5** from **{{ trustpilot.total }} reviews** on Trustpilot. These are the reviews left on Trustpilot; the handwritten compliments from service users and partner organisations are on our [Compliments page](/compliments/).
 
 <a href="{{ trustpilot.profileUrl }}" rel="noopener">Read our Trustpilot profile</a>
 

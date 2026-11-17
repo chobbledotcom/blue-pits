@@ -31,6 +31,15 @@ jobs:
           APIFY_API_TOKEN: ${{ secrets.APIFY_API_TOKEN }}
         run: node scripts/fetch-trustpilot-reviews.js
 
+      - name: Ensure only review data changed
+        run: |
+          unexpected="$(git status --porcelain | grep -vE '^.. _data/reviews.json$' || true)"
+          if [ -n "$unexpected" ]; then
+            echo "Unexpected changes from the review importer:"
+            echo "$unexpected"
+            exit 1
+          fi
+
       - name: Check for changes
         id: verify-changed-files
         run: |

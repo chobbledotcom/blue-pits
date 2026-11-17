@@ -7,7 +7,7 @@ top_links_name: Compliments
 top_links_order: 7
 ---
 
-Recent feedback from our service users and partner organisations.
+Recent feedback from our service users and partner organisations. You can also read our [Trustpilot reviews](/reviews/).
 
 ### Latest Compliments (2025 - 2026)
 
