@@ -159,13 +159,27 @@ header {
   margin-top: 8px;
 }
 
-.trustpilot-review {
-  border-top: 1px solid #dddddd;
-  margin-top: 20px;
-  padding-top: 15px;
+.compliments-intro {
+  margin-bottom: 1.5em;
 }
 
-.trustpilot-review blockquote {
+.compliment {
+  border-top: 1px solid #dddddd;
+  margin-top: 24px;
+  padding-top: 16px;
+}
+
+.compliment:first-of-type {
+  border-top: 0;
+  margin-top: 0;
+  padding-top: 0;
+}
+
+.compliment-meta {
+  color: #666666;
+}
+
+.compliment blockquote {
   font-size: 16px;
 }
 
